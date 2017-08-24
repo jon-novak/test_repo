@@ -1,0 +1,3 @@
+path:
+    outgoing_path : '/BI_Files/bi_datasci/skurec/outgoing'
+    incoming_path : '/BI_Files/bi_datasci/skurec/incoming'
